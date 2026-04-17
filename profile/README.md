@@ -1,12 +1,3 @@
-## Hi there 👋
+## About Us
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+MIT HumanTech, officially Human Technology Integration Club (HTIC), is an MIT club made of builders exploring how humans can interact with emerging technologies in new and meaningful ways. Our teams work at the cutting edge of brain–computer interfaces, personal robotics, and wearable tech—transforming ideas into real, working prototypes. HTIC gives students the chance to gain hands-on experience, collaborate with faculty and peers, and be part of a passionate community pushing the boundaries of what’s possible between humans and technology.
